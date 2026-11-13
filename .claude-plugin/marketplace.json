@@ -1,0 +1,14 @@
+{
+  "name": "loadabrain",
+  "owner": {
+    "name": "Load a Brain"
+  },
+  "description": "Free starter brain from Load a Brain: sourced notes and a skill that answers from them first.",
+  "plugins": [
+    {
+      "name": "starter-brain",
+      "source": "./",
+      "description": "Free starter brain: 42 sourced notes and a skill that answers from them first."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "starter-brain",
+  "version": "1.0.0",
+  "description": "42 sourced, dated notes on sales, marketing, web, brand and design, finance and AI agents, with one skill that makes Claude answer from them first and cite their sources.",
+  "author": {
+    "name": "Load a Brain"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": [
+    "knowledge",
+    "notes",
+    "sources",
+    "obsidian",
+    "sales",
+    "marketing",
+    "web",
+    "finance",
+    "ai-agents"
+  ]
+}
