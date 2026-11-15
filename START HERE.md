@@ -4,7 +4,22 @@
 
 ## Use it
 - **As a Claude plugin:** see README.md (two commands).
-- **As a folder:** open it in Obsidian ("Open folder as vault"), then start Claude Code in it (`claude`). It reads `CLAUDE.md`.
+- **As a folder:** open an AI tool that can open a folder on your computer (Claude Code, Codex, Gemini CLI, Cursor or GitHub Copilot) in this folder, and ask: `Read START HERE.md, then answer my questions from these notes.`
+- **Optional: Obsidian.** Only to read the notes yourself ("Open folder as vault"). Your AI doesn't need it.
+
+Built and tested with Claude Code. The same rules are in `CLAUDE.md` (Claude Code), `AGENTS.md` (Codex, Cursor, GitHub Copilot and other tools) and `GEMINI.md` (Gemini CLI).
+
+> [!tip] First time using AI on your computer?
+> Chat apps in the browser can't open a folder on your computer. Most AI companies also make a version that can. Pick the AI you use today:
+> - **ChatGPT:** use **Codex** (openai.com/codex). You sign in with your ChatGPT account.
+> - **Claude:** use **Claude Code** (claude.com/product/claude-code). You sign in with your Claude account.
+> - **Gemini:** use **Gemini CLI** (github.com/google-gemini/gemini-cli). You sign in with your Google account.
+> - **None yet:** start with **Claude Code**. It is the one we built and tested the brains with.
+>
+> Then:
+> 1. Install it. Their page shows the steps for Mac and Windows.
+> 2. Open it in this folder. That gives it access to the notes, and only to that folder.
+> 3. Ask: `Read START HERE.md, then answer my questions from these notes.`
 
 ## What is inside
 | Field | Notes | Titles |
