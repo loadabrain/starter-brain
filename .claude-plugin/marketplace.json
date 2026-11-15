@@ -3,12 +3,12 @@
   "owner": {
     "name": "Load a Brain"
   },
-  "description": "Free starter brain from Load a Brain: sourced notes and a skill that answers from them first.",
+  "description": "Free starter brain from Load a Brain: 42 sourced, dated notes your AI reads before it answers.",
   "plugins": [
     {
       "name": "starter-brain",
       "source": "./",
-      "description": "Free starter brain: 42 sourced notes and a skill that answers from them first."
+      "description": "Free starter brain: 42 sourced, dated notes your AI reads before it answers."
     }
   ]
 }

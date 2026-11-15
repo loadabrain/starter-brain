@@ -1,6 +1,6 @@
 ---
 name: starter-brain
-description: Answer questions on sales, marketing, websites, brand and design, small-business finance and AI agents from 42 sourced, dated notes, citing each note's sources and confidence, and using the web only for what the notes don't cover. Use when the user asks how to price work, write a cold message, run a sales call, plan a landing page or a small ad test, check Core Web Vitals or EU cookie rules, judge colour contrast, forecast cash, or vet an MCP server or agent, or asks to "use the starter brain".
+description: Answer questions on sales, marketing, websites, brand and design, small-business finance and AI agents from 42 sourced, dated notes, showing each note's sources and confidence, and using the web only for what the notes don't cover. Use when the user asks how to price work, write a cold message, run a sales call, plan a landing page or a small ad test, check Core Web Vitals or EU cookie rules, judge colour contrast, forecast cash, or vet an MCP server or agent, or asks to "use the starter brain".
 ---
 # Starter brain (Lite OS)
 

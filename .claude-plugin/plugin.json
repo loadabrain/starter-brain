@@ -1,7 +1,7 @@
 {
   "name": "starter-brain",
-  "version": "1.0.0",
-  "description": "42 sourced, dated notes on sales, marketing, web, brand and design, finance and AI agents, with one skill that makes Claude answer from them first and cite their sources.",
+  "version": "1.0.1",
+  "description": "42 sourced, dated notes on sales, marketing, web, brand and design, finance and AI helpers. Claude reads them first and shows where each answer comes from.",
   "author": {
     "name": "Load a Brain"
   },

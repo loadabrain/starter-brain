@@ -1,6 +1,6 @@
 # Starter brain
 
-42 short, sourced notes on the basics of 6 fields, and a small set of rules (Lite OS) that make your AI agent answer from them first.
+42 short notes on the basics of 6 fields, each with its sources and dates, and a few rules so your AI reads them before it answers and shows where it got it.
 
 ## Use it
 - **As a Claude plugin:** see README.md (two commands).
@@ -16,7 +16,7 @@
 | Finance | 7 | Value-based pricing, Utilisation rate for service businesses, Template - Pricing calculator, Change orders, Cash vs profit vs revenue, Burn rate and runway, Cash forecasting - 13-week and 12-month |
 | AI agents | 7 | Playbook - Hype check, Playbook - Agent security checklist, Playbook - Vetting an MCP server before you install it, Agent evals, Playbook - Evaluating an agent case study, Playbook - Pre-launch failure review, Playbook - Margin calculator |
 
-## Lite OS
-Lite OS is a few rules, nothing else: search the notes, quote them with sources and dates, use the web only after. No tools, no memory of you, nothing runs in the background.
+## How your AI uses it
+A few rules, nothing else: look in the notes first, show the sources and dates, use the web only after and say so. Nothing to install, no memory of you, nothing runs in the background.
 
 Not legal or financial advice. Your own notes go in `my-notes/`.
